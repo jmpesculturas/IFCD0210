@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="estilo-escultores.css"?>
+<escultores xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="file:///C:/IFCD0210/MF0491-3%20CLIENTE/UF1841/E2/prueba1xmljuanmanuelparrado.xsd">
+	<escultor>
+		<artista>miguel angel</artista>
+		<pais>italia</pais>
+		<obra>david</obra>
+	</escultor>
+	<escultor>
+		<artista>roden</artista>
+		<pais>francia</pais>
+		<obra>pensador</obra>
+	</escultor>
+	<escultor>
+		<artista>bernini</artista>
+		<pais>italia</pais>
+		<obra>1969</obra>
+	</escultor>
+	<escultor>
+		<artista>camile claudel</artista>
+		<pais>francia</pais>
+		<obra>los amantes</obra>
+	</escultor>
+	<escultor>
+		<artista>javier murcia</artista>
+		<pais>españa</pais>
+		<obra>los pescadores</obra>
+	</escultor>
+	<escultor>
+		<artista>juan manuel</artista>
+		<pais>españa</pais>
+		<obra>jocker</obra>
+	</escultor>
+
+</escultores>
